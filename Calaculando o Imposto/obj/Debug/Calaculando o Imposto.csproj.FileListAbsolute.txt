@@ -1,0 +1,7 @@
+C:\Users\icors\source\repos\Calaculando o Imposto\Calaculando o Imposto\bin\Debug\Calaculando o Imposto.exe.config
+C:\Users\icors\source\repos\Calaculando o Imposto\Calaculando o Imposto\bin\Debug\Calaculando o Imposto.exe
+C:\Users\icors\source\repos\Calaculando o Imposto\Calaculando o Imposto\bin\Debug\Calaculando o Imposto.pdb
+C:\Users\icors\source\repos\Calaculando o Imposto\Calaculando o Imposto\obj\Debug\Calaculando o Imposto.csproj.AssemblyReference.cache
+C:\Users\icors\source\repos\Calaculando o Imposto\Calaculando o Imposto\obj\Debug\Calaculando o Imposto.csproj.CoreCompileInputs.cache
+C:\Users\icors\source\repos\Calaculando o Imposto\Calaculando o Imposto\obj\Debug\Calaculando o Imposto.exe
+C:\Users\icors\source\repos\Calaculando o Imposto\Calaculando o Imposto\obj\Debug\Calaculando o Imposto.pdb
